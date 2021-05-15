@@ -1,2 +1,6 @@
 # Spoken_english_to_written_english
-Create a reusable library and a REST API based service that can convert a paragraph of spoken english to written english. For example, "two dollars" should be converted to $2. Abbreviations spoken as "H T M L" or "Triple A" should be written as "HTML" and "AAA" respectively. Note that we are not asking you to convert audio to text; just convert a raw transcript from spoken English to written English. Push your code and documentation to a public github/gitlab/bitbucket repo and submit the link here. Repo must contain a README.md which details the features you have implemented, features you can think of but are yet to implement and instructions for using your code as a library and for invoking your REST service.
+Run the file spoken_to_written.
+Here, we only stated that the dollars is coverted into $ for other  converstion we just have to add extra 
+features and we can convert them to written language.
+The updation of program for every word is required .
+In extra I have showcased conversion of percentage to %.
